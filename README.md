@@ -11,4 +11,6 @@ Demo of using CNN Tensorboard GPU
 <li>show how Tensorboard can be used to visualize the data.</li>
 <li>show how to enable GPU at a Window laptop.</li>
 </ul>
+<br/>Please following the link of Kaggle
+</br><a href="https://www.kaggle.com/leighlin0511/cnn-tensorboard-and-gpu-0-99657" target="_blank">kaggle competition kernel</a>
 </font>
